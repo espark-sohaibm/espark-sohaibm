@@ -45,7 +45,7 @@
 <p>
 <a href="https://www.buymeacoffee.com/syedalinaqihasni"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="syedalinaqihasni" /></a>
 <a href="https://ko-fi.com/syedalinaqihasni"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="syedalinaqihasni" /></a></p>
-
+<br><br><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedalinaqihasni" alt="syedalinaqihasni" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedalinaqihasni&show_icons=true&locale=en&layout=compact" alt="syedalinaqihasni" /></p>
