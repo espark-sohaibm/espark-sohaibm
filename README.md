@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/syedalinaqihasni/](https://www.linkedin.com/in/syedalinaqihasni/)
 
-- ⚡ Fun fact **I Think, therefore I am.**
+- ⚡ Favorite Quote **I Think, therefore I am.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
