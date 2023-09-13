@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/syedalinaqihasni/syedalinaqihasni/b0a3892bc19c85bb5242771a629076df56c3cc2b/snake.svg)" alt="Snake animation" />
 
 <h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=syedalinaqihasni&show_icons=true&locale=en" alt="syedalinaqihasni" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedalinaqihasni&" alt="syedalinaqihasni" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedalinaqihasni&show_icons=true&locale=en&layout=compact" alt="syedalinaqihasni" /></p>
